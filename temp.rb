@@ -1,6 +1,8 @@
-@@jackets = ["fur", "leather", "brown"]
+@@jackets = ["fur", "leather", "browncoat"]
 @@pants = ["jeans", "khakis", "slacks"] 
 @@shirts = ["red", "black", "yellow", "green"]
+
+
 # @@weather = (32..120).to_a.sample 
 
 puts "What tommorrows temprature ?"
